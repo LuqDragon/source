@@ -242,7 +242,7 @@
         loggedInID: null,
         scriptLink: "https://rawgit.com/LuqDragon/source/master/basicBot.js",
         cmdLink: "http://git.io/245Ppg",
-        chatLink: "https://rawgit.com/LuqDragon/source/master/lang/pt-BR.json",
+        chatLink: "https://github.com/LuqDragon/source/blob/master/lang/en.json",
         chat: null,
         loadChat: loadChat,
         retrieveSettings: retrieveSettings,
